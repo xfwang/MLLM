@@ -1,4 +1,4 @@
 # MLLM
 Multi-level learning and modeling with applications to biology and finance
 
-Contact: Xuefeng.Wang
+Xuefeng.Wang

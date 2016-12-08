@@ -1,4 +1,4 @@
 # MLM
-Multi-level modeling with applications in biology and finance
+Multi-level modeling with applications to biology and finance
 
 Contact: xuefeng.wang@yale.edu
